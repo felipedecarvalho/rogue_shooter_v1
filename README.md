@@ -1,6 +1,7 @@
-# rogue_shooter_v1
+# rogue_shooter_v2
 
-A new Flutter project.
+A new Flutter project. = segunda versão do jogo
+Simple scrolling shooter game made initially for learning purposes
 
 ## Getting Started
 

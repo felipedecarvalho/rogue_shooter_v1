@@ -5,18 +5,15 @@
 // gestures. You can also use WidgetTester to find child widgets in the widget
 // tree, read text, and verify that the values of widget properties are correct.
 
-import 'package:flame/flame.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:rogue_shooter_v1/main.dart';
+import 'package:rogue_shooter/main.dart';
 /*
-
 void main() {
   testWidgets('Counter increments smoke test', (WidgetTester tester) async {
     // Build our app and trigger a frame.
-    Size size = await Flame.util.initialDimensions();
-    await tester.pumpWidget(SpaceShooterGame().widget);
+    await tester.pumpWidget(MyApp());
 
     // Verify that our counter starts at 0.
     expect(find.text('0'), findsOneWidget);
@@ -31,5 +28,4 @@ void main() {
     expect(find.text('1'), findsOneWidget);
   });
 }
-
 */
