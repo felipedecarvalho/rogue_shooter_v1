@@ -1,6 +1,6 @@
 # rogue_shooter_v1
 
-A new Flutter project.
+A new Flutter project. = primeira versão do jogo
 
 ## Getting Started
 
